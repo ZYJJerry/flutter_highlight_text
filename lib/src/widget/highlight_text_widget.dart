@@ -72,7 +72,7 @@ class _HighLightTextState extends State<HighLightText> {
     List<TextRange> _ranges = [];
     List<TextSpan> spans = <TextSpan>[];
     widget.highLightWords!.forEach((element) {
-      _ranges.addAll(KMP.kmpSearchTextRange(widget.text, element));
+      _ranges.addAll(widget.text.kmpSearchTextRange(element));
     });
     _ranges.sort((left, right) => left.start.compareTo(right.start));
     int currentPosition = 0;

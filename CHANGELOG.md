@@ -1,3 +1,3 @@
-## 0.0.2
+## 0.0.4
 
-* TODO: Describe initial release.
+将kmp_util调整为String的extension
