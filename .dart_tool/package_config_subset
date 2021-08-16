@@ -70,10 +70,6 @@ vector_math
 2.12
 file:///Users/jerry/.pub-cache/hosted/pub.flutter-io.cn/vector_math-2.1.0/
 file:///Users/jerry/.pub-cache/hosted/pub.flutter-io.cn/vector_math-2.1.0/lib/
-flutter_highlight_text
-2.12
-file:///Users/jerry/Desktop/flutter_highlight_text/
-file:///Users/jerry/Desktop/flutter_highlight_text/lib/
 sky_engine
 2.12
 file:///Users/jerry/workspace/flutter/bin/cache/pkg/sky_engine/
@@ -86,4 +82,8 @@ flutter_test
 2.12
 file:///Users/jerry/workspace/flutter/packages/flutter_test/
 file:///Users/jerry/workspace/flutter/packages/flutter_test/lib/
+flutter_highlight_text
+2.12
+file:///Users/jerry/workspace/flutter_package/flutter_highlight_text/
+file:///Users/jerry/workspace/flutter_package/flutter_highlight_text/lib/
 2

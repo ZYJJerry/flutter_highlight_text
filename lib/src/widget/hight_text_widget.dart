@@ -44,7 +44,7 @@ class _HighLightTextState extends State<HighLightText> {
   }
 
   InlineSpan buildSpan() {
-    if (widget.highLightType == HighLightType.kerWords) {
+    if (widget.highLightType == HighLightType.keyWords) {
       if (widget.highLightWords == null) {
         return TextSpan(children: [
           TextSpan(

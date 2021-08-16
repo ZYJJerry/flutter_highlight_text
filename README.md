@@ -1,5 +1,5 @@
 # flutter_highlight_text
-Flutter文本指定文字或者指定分割符高亮
+Flutter文本指定文字或者指定分割符高亮,高亮文字点击之后回调点击内容
 
 ### 使用方法
 ```
@@ -46,4 +46,3 @@ class _TextPageState extends State<TextPage> {
   }
 }
 ```
-````
