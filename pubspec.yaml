@@ -1,6 +1,6 @@
 name: flutter_highlight_text
 description: Flutter文本指定文字或者指定分割符高亮
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/ZYJJerry/flutter_highlight_text
 
 environment:
